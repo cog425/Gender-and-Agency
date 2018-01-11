@@ -1,4 +1,4 @@
-# 2-Gender-and-verbs
+# Gender-and-Agency
 
 Article DOI: [10.22148/16.010](https://doi.org/10.22148/16.010)
 
