@@ -1,12 +1,9 @@
 """
 Created on Fri Mar 3 02:17:07 2017
 
-@author: dt
-
 To run this spider:
-    1. cd /Users/dt/Documents/UChicago/Literature/2.\ Gender\ and\ verbs/data/archive/archive/spiders/
-    2. source activate py35
-    3. scrapy runspider main.py
+    1. cd Gender-and-Agency/archive/archive/spiders/
+    2. scrapy runspider main.py
 """
 
 
