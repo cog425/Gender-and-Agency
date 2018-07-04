@@ -9,3 +9,5 @@ Dependency:
 - Python 3.5.2
 
 - Scrapy 1.1.1
+
+- Pandas 0.21.0
